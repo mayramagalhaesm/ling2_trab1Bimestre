@@ -1,0 +1,14 @@
+C:\Users\mayra\source\repos\Cakelicia1\Cakelicia1\bin\Debug\Cakelicia1.exe.config
+C:\Users\mayra\source\repos\Cakelicia1\Cakelicia1\bin\Debug\Cakelicia1.exe
+C:\Users\mayra\source\repos\Cakelicia1\Cakelicia1\bin\Debug\Cakelicia1.pdb
+C:\Users\mayra\source\repos\Cakelicia1\Cakelicia1\obj\Debug\Cakelicia1.csprojAssemblyReference.cache
+C:\Users\mayra\source\repos\Cakelicia1\Cakelicia1\obj\Debug\Cakelicia1.frmLogin.resources
+C:\Users\mayra\source\repos\Cakelicia1\Cakelicia1\obj\Debug\Cakelicia1.Properties.Resources.resources
+C:\Users\mayra\source\repos\Cakelicia1\Cakelicia1\obj\Debug\Cakelicia1.csproj.GenerateResource.cache
+C:\Users\mayra\source\repos\Cakelicia1\Cakelicia1\obj\Debug\Cakelicia1.csproj.CoreCompileInputs.cache
+C:\Users\mayra\source\repos\Cakelicia1\Cakelicia1\obj\Debug\Cakelicia1.exe
+C:\Users\mayra\source\repos\Cakelicia1\Cakelicia1\obj\Debug\Cakelicia1.pdb
+C:\Users\mayra\source\repos\Cakelicia1\Cakelicia1\obj\Debug\Cakelicia1.FrmPedido.resources
+C:\Users\mayra\source\repos\Cakelicia1\Cakelicia1\obj\Debug\Cakelicia1.FrmAgendar.resources
+C:\Users\mayra\source\repos\Cakelicia1\Cakelicia1\obj\Debug\Cakelicia1.FrmCadastro.resources
+C:\Users\mayra\source\repos\Cakelicia1\Cakelicia1\obj\Debug\Cakelicia1.FrmMenu.resources
